@@ -52,7 +52,8 @@
 - ❓ Open questions:
   
 ---
-### Day - (Date)
+### Day 9 - (9/12/25)
+  - I enrolled on IBM's 2nd course - Python for Data Science, AI & Development
 
 - 📘 What I studied today:
   
