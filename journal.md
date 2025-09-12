@@ -1,11 +1,25 @@
 # Learning Journal
 
-### Day 1 (9/3/25) — Getting Started  
+### Day 9 - (9/12/25)
+  - I enrolled on IBM's 2nd course - Python for Data Science, AI & Development
 
-- Enrolled in the **IBM Data Engineering Professional Certificate**.  
-- Set up my dedicated GitHub repository for this journey.  
-- Organized initial folder structure: notes, exercises, projects.  
-- Reviewed Python basics (variables, data types, functions).  
+- 📘 What I studied today:
+
+  -  Basic Python Types
+  -  Basics of Jupyter
+  -  Expressions and Variables
+  -  String Operations
+  -  
+- 💻 What I practiced:
+    
+- 💡 Key takeaway:
+
+  - raw_string = r"C:\new_folder\file.txt"
+    print("Raw String:", raw_string)
+
+      - This is a new info for me. putting an "r" before the actual string nullifies the "\n".
+        
+- ❓ Open questions:
 
 ---
 
@@ -52,13 +66,10 @@
 - ❓ Open questions:
   
 ---
-### Day 9 - (9/12/25)
-  - I enrolled on IBM's 2nd course - Python for Data Science, AI & Development
 
-- 📘 What I studied today:
-  
-- 💻 What I practiced:
-    
-- 💡 Key takeaway:
-  
-- ❓ Open questions:
+### Day 1 (9/3/25) — Getting Started  
+
+- Enrolled in the **IBM Data Engineering Professional Certificate**.  
+- Set up my dedicated GitHub repository for this journey.  
+- Organized initial folder structure: notes, exercises, projects.  
+- Reviewed Python basics (variables, data types, functions).  
