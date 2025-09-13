@@ -1,7 +1,25 @@
 # Learning Journal
 
-### Day 9 - (9/12/25)
+### Day 10 - (9/14/25)
+
+
+- 📘 What I studied today:
+
+  
+- 💻 What I practiced:
+
+    
+- 💡 Key takeaway:
+
+        
+- ❓ Open questions:
+
+---
+
+### Day 9 - (9/13/25)
+
   - I enrolled on IBM's 2nd course - Python for Data Science, AI & Development
+      -  Focused on RegEx because it was confusing.
 
 - 📘 What I studied today:
 
@@ -9,8 +27,11 @@
   -  Basics of Jupyter
   -  Expressions and Variables
   -  String Operations
-  -  
+  -  Python RegEx (Regular Expressions)
+  
 - 💻 What I practiced:
+
+  -  Focused on RegEx since this was new to me.
     
 - 💡 Key takeaway:
 
