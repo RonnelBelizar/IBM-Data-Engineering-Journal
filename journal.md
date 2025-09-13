@@ -1,6 +1,6 @@
 # Learning Journal
 
-### Day 10 - (9/14/25)
+### Day 11 - (9/14/25)
 
 
 - 📘 What I studied today:
@@ -16,7 +16,7 @@
 
 ---
 
-### Day 9 - (9/13/25)
+### Day 10 - (9/13/25)
 
   - I enrolled on IBM's 2nd course - Python for Data Science, AI & Development
       -  Focused on RegEx because it was confusing.
