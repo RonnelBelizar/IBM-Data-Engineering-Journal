@@ -1,19 +1,34 @@
 # Learning Journal
 
-### Day 11 - (9/14/25)
-
+### Day 12 - (9/15/25)
 
 - 📘 What I studied today:
-
   
 - 💻 What I practiced:
-
     
 - 💡 Key takeaway:
-
         
 - ❓ Open questions:
+  
+---
 
+### Day 11 - (9/14/25)
+
+- 📘 What I studied today:
+  - Tuples
+  - Lists
+  - Dictionaries
+  - Sets
+  
+- 💻 What I practiced:
+  - Esential functions of each.
+    
+- 💡 Key takeaway:
+  - Essential functions
+        
+- ❓ Open questions:
+  -  How often is this really used in today's data engineering pipelines?
+  
 ---
 
 ### Day 10 - (9/13/25)
