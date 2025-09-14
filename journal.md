@@ -19,6 +19,13 @@
   - Lists
   - Dictionaries
   - Sets
+  - If, Elif, Else
+  - Nested Conditions
+  - Logical Operators
+  - Loops
+    -  For Loops
+    -  While Loops
+  - def functions
   
 - 💻 What I practiced:
   - Esential functions of each.
