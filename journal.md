@@ -1,15 +1,32 @@
 # Learning Journal
 
-### Day 12 - (9/15/25)
+### Day - ()
 
 - 📘 What I studied today:
-  
+      
 - 💻 What I practiced:
     
 - 💡 Key takeaway:
-        
-- ❓ Open questions:
   
+- ❓ Open questions:
+
+---
+
+### Day 14 - (9/17/25)
+
+- 📘 What I studied today:
+  -  Exception Handling
+    -  Try, Except, Else, Finally
+      
+- 💻 What I practiced:
+  -  Try, Except, Else, Finally
+    
+- 💡 Key takeaway:
+  -  Essential to prevent program crashing
+  
+- ❓ Open questions:
+  -  Application to real world data engineering
+    
 ---
 
 ### Day 11 - (9/14/25)
