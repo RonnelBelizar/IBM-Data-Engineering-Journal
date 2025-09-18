@@ -1,14 +1,20 @@
 # Learning Journal
 
-### Day - ()
+### Day 15 - (9/18/25)
 
 - 📘 What I studied today:
-      
+  - Objects and Classes
+    
 - 💻 What I practiced:
+  - How to utilize objects and classes
     
 - 💡 Key takeaway:
+  - This is another form of data organizing and manipulation because it creates a structure with common codes that will be executed
+          - Class is like the "blueprint" that contains attributes and what it can do
+          - Object is the actual thing created from the blueprint
   
 - ❓ Open questions:
+  -  How important is this when there are already simpler ways to do what it can do?
 
 ---
 
