@@ -1,5 +1,20 @@
 # Learning Journal
 
+### Day 16 - (9/19/25)
+
+- 📘 What I studied today:
+  -  Continued exercises for Objects and Classes
+    
+- 💻 What I practiced:
+  -  Exercises
+    
+- 💡 Key takeaway:
+  -  How to manipulate the syntax and get a better general understanding
+
+- ❓ Open questions:
+
+---
+
 ### Day 15 - (9/18/25)
 
 - 📘 What I studied today:
