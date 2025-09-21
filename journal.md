@@ -1,5 +1,21 @@
 # Learning Journal
 
+### Day 19 - (9/22/25)
+
+- 📘 What I studied today:
+  -  Open Functions
+    
+- 💻 What I practiced:
+  -  How to use it practically
+  -  Did exercises
+    
+- 💡 Key takeaway:
+  -  How to manipulate the syntax and get a better general understanding
+
+- ❓ Open questions:
+
+---
+
 ### Day 16 - (9/19/25)
 
 - 📘 What I studied today:
