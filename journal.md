@@ -3,6 +3,26 @@
 ### Day 19 - (9/22/25)
 
 - 📘 What I studied today:
+  -  Try, Except, Else
+  -  Open Function
+  -  Classes
+  -  Introduction to pandas library
+    
+- 💻 What I practiced:
+  -  Practiced and exercise utilizing all that I've studied today
+      - Link:
+          -https://github.com/RonnelBelizar/IBM-Data-Engineering-Journal/tree/main/exercises/Python%20for%20Data%20Science%2C%20AI%2C%20%26%20Devvelopment/Mod_4_Patient%20Records%20Manager%20%5Btry%2C%20except%2C%20else%2C%20open%2C%20class%5D
+    
+- 💡 Key takeaway:
+  -  How to manipulate the syntax and get a better general understanding
+
+- ❓ Open questions:
+
+---
+
+### Day 18 - (9/21/25)
+
+- 📘 What I studied today:
   -  Open Functions
     
 - 💻 What I practiced:
