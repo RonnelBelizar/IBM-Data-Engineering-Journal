@@ -1,0 +1,6 @@
+Kitchie Jose,45,Diabetes
+Gala Belizar,30,Hypertension
+Joana Jose,abc,TB
+Doc Monsour,75,XDR
+Shed Daroya,87,HIV
+Bren Bagbaguen,32,CT_NG
