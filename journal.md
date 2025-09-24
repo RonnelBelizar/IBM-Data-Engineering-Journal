@@ -1,5 +1,19 @@
 # Learning Journal
 
+### Day 21 - (9/24/25)
+
+- 📘 What I studied today:
+    - Pandas
+- 💻 What I practiced:
+    - How to work around pandas — Syntax and flow
+    - Link of my practice codes:
+    - https://github.com/RonnelBelizar/IBM-Data-Engineering-Journal/tree/main/exercises/Python%20for%20Data%20Science%2C%20AI%2C%20%26%20Devvelopment/Mod_4_Employee%20Records%20%5Bpandas%5D
+- 💡 Key takeaway:
+    - Extremely useful tool
+- ❓ Open questions:
+
+---
+
 ### Day 19 - (9/22/25)
 
 - 📘 What I studied today:
