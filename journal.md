@@ -1,5 +1,18 @@
 # Learning Journal
 
+### Day 22 - (9/25/25)
+
+- 📘 What I studied today:
+    - Numpy
+- 💻 What I practiced:
+    - Basic codes and functions
+- 💡 Key takeaway:
+    - This is useful for vector graphs
+- ❓ Open questions:
+    - How prevalent is this in the industry?
+      
+---
+
 ### Day 21 - (9/24/25)
 
 - 📘 What I studied today:
