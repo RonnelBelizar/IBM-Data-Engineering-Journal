@@ -134,3 +134,127 @@
           +---------------------------+  
 
 ---
+
+# 📘 2D NumPy Arrays  
+
+---
+
+## 🔎 What are 2D Arrays?  
+
+    • 📖 Definition → A **2D NumPy array** is like a **table (rows & columns)** or a **matrix** in mathematics.  
+    • 🏗️ Structure → Arranged in rows and columns → `shape = (rows, columns)`  
+    • 💡 Use Cases → Representing datasets, images (pixels), matrices for linear algebra, etc.  
+
+---
+
+## 🛠️ Creating 2D Arrays  
+
+    import numpy as np  
+
+    # Manual 2D array  
+    arr = np.array([[1, 2, 3],  
+                    [4, 5, 6],  
+                    [7, 8, 9]])  
+
+    print(arr)  
+
+🧾 Output →  
+    [[1 2 3]  
+     [4 5 6]  
+     [7 8 9]]  
+
+---
+
+## 📐 Shape and Dimensions  
+
+    print(arr.shape)     # (3, 3) → 3 rows, 3 columns  
+    print(arr.ndim)      # 2 → 2 dimensions  
+    print(arr.size)      # 9 → total elements  
+
+---
+
+## 🎯 Indexing in 2D Arrays  
+
+    print(arr[0, 0])     # Element at row 0, col 0 → 1  
+    print(arr[1, 2])     # Element at row 1, col 2 → 6  
+    print(arr[-1, -1])   # Last element → 9  
+
+---
+
+## ✂️ Slicing in 2D Arrays  
+
+    print(arr[0:2, 1:3])     # Submatrix → rows 0–1, cols 1–2  
+
+🧾 Output →  
+    [[2 3]  
+     [5 6]]  
+
+---
+
+## 🔄 Basic Operations on 2D Arrays  
+
+✨ Vectorized Addition  
+
+    a = np.array([[1, 2],  
+                  [3, 4]])  
+
+    b = np.array([[5, 6],  
+                  [7, 8]])  
+
+    print(a + b)  
+
+🧾 Output →  
+    [[ 6  8]  
+     [10 12]]  
+
+✖️ Scalar Multiplication  
+
+    print(a * 10)  
+
+🧾 Output →  
+    [[10 20]  
+     [30 40]]  
+
+---
+
+## 📊 Matrix Multiplication  
+
+    # Using @ operator  
+    print(a @ b)  
+
+    # Or with np.dot()  
+    print(np.dot(a, b))  
+
+🧾 Output →  
+    [[19 22]  
+     [43 50]]  
+
+📌 This is **true matrix multiplication**, not element-wise.  
+
+---
+
+## 🌐 Universal Functions on 2D Arrays  
+
+    c = np.array([[1, 4, 9],  
+                  [16, 25, 36]])  
+
+    print(np.sqrt(c))    # Square root of all elements  
+    print(np.exp(c))     # Exponential of all elements  
+
+---
+
+## 🖼️ Graphical Representation of 2D Array (3x3 Example)  
+
+          C0   C1   C2  
+        +----+----+----+  
+    R0  |  1 |  2 |  3 |  
+        +----+----+----+  
+    R1  |  4 |  5 |  6 |  
+        +----+----+----+  
+    R2  |  7 |  8 |  9 |  
+        +----+----+----+  
+
+📌 Each element is accessed as → arr[row, column]  
+
+---
+
