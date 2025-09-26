@@ -1,5 +1,19 @@
 # Learning Journal
 
+### Day 23 - (9/26/25)
+
+- 📘 What I studied today:
+    - Numpy
+    - API
+- 💻 What I practiced:
+    - Quizes on IBM Data Engineering
+    - Introduction to APIs
+- 💡 Key takeaway:
+    - This is widely used
+- ❓ Open questions:
+      
+---
+
 ### Day 22 - (9/25/25)
 
 - 📘 What I studied today:
