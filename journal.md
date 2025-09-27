@@ -6,8 +6,10 @@
     - Pandas
     - Open
     - Try
+    - Classes
 - 💻 What I practiced:
     - Exercise combining all concepts
+    - Linkk of my exercise: https://github.com/RonnelBelizar/IBM-Data-Engineering-Journal/tree/main/exercises/Python%20for%20Data%20Science%2C%20AI%2C%20%26%20Devvelopment/Mod_4_Patient%20Records%20Analyzer%20%5Bopen%2C%20try%2C%20%20pandas%2C%20class%5D
 - 💡 Key takeaway:
 - ❓ Open questions:
       
