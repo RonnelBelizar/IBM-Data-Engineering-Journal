@@ -1,5 +1,18 @@
 # Learning Journal
 
+### Day 24 - (9/27/25)
+
+- 📘 What I studied today:
+    - Pandas
+    - Open
+    - Try
+- 💻 What I practiced:
+    - Exercise combining all concepts
+- 💡 Key takeaway:
+- ❓ Open questions:
+      
+---
+
 ### Day 23 - (9/26/25)
 
 - 📘 What I studied today:
