@@ -3,6 +3,7 @@
 ### Day 25 - (9/28/25)
 
 - 📘 What I studied today:
+    - Open
     - Pandas
     - API
 
@@ -13,11 +14,11 @@
 - 💡 Key takeaway:
     - Focused on this one because this most likely will be used for my grand healthcare pipepline project, and future work soon
     - Links:
-        - Hospital Appoointment Analyzer:
+        - Hospital Appoointment Analyzer [open, pandas]:
           https://github.com/RonnelBelizar/IBM-Data-Engineering-Journal/tree/main/exercises/Python%20for%20Data%20Science%2C%20AI%2C%20%26%20Devvelopment/Mod_4_Hospital%20Appointments%20Analyzer%20%5Bopen%2C%20pandas%5D
-        - Macare Employees Records Analyzer:
+        - Macare Employees Records Analyzer [pandas]:
           https://github.com/RonnelBelizar/IBM-Data-Engineering-Journal/tree/main/exercises/Python%20for%20Data%20Science%2C%20AI%2C%20%26%20Devvelopment/Mod_4_Macare%20Employees%20Records%20Analyzer%20%5Bpandas%5D
-        - Fruit Nutrition Facts:
+        - Fruit Nutrition Facts [API, pandas:
           https://github.com/RonnelBelizar/IBM-Data-Engineering-Journal/tree/main/exercises/Python%20for%20Data%20Science%2C%20AI%2C%20%26%20Devvelopment/Mod_5_Fruit%20Nutrition%20Facts%20%5BAPI%2C%20pandas%5D
           
 - ❓ Open questions:
