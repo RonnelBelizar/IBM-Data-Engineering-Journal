@@ -1,5 +1,23 @@
 # Learning Journal
 
+### Day 25 - (9/28/25)
+
+- 📘 What I studied today:
+    - Pandas
+
+- 💻 What I practiced:
+    - Another Pandas exercises 
+
+- 💡 Key takeaway:
+    - Focused on this one because this most likely will be used for my grand healthcare pipepline project soon
+    - Links:
+        - Hospital Appoointment Analyzer: https://github.com/RonnelBelizar/IBM-Data-Engineering-Journal/tree/main/exercises/Python%20for%20Data%20Science%2C%20AI%2C%20%26%20Devvelopment/Mod_4_Hospital%20Appointments%20Analyzer%20%5Bopen%2C%20pandas%5D
+        - Macare Employees Records Analyzer: https://github.com/RonnelBelizar/IBM-Data-Engineering-Journal/tree/main/exercises/Python%20for%20Data%20Science%2C%20AI%2C%20%26%20Devvelopment/Mod_4_Macare%20Employees%20Records%20Analyzer%20%5Bpandas%5D
+          
+- ❓ Open questions:
+      
+---
+
 ### Day 24 - (9/27/25)
 
 - 📘 What I studied today:
