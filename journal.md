@@ -8,12 +8,20 @@
     - Web Scraping
           -    BeautifulSoup
     - pandas
+    - Open
 - 💻 What I practiced:
     - Web Scraping
     - Mixture of all topics
+    - Links:
+        - Web Scraping [BeautifulSoup, pandas]
+            - https://github.com/RonnelBelizar/IBM-Data-Engineering-Journal/tree/main/exercises/Python%20for%20Data%20Science%2C%20AI%2C%20%26%20Devvelopment/Mod_5_Web%20Scraping%20with%20BeautifulSoup%20%5BBeautifulSoup%2C%20open%5D
+            
+        - Scrape Books [BeautifulSoup, open]
+            - https://github.com/RonnelBelizar/IBM-Data-Engineering-Journal/tree/main/exercises/Python%20for%20Data%20Science%2C%20AI%2C%20%26%20Devvelopment/Mod_5_Scrape%20Books%20and%20Save%20With%20Pandas%20%5BBeautifulSoup%2C%20pandas%5D 
 
 - 💡 Key takeaway:
-    - This was particularly hard for me. I believe this is widely used.          
+    - This was particularly hard for me. I believe this is widely used.       
+    
 - ❓ Open questions:
       
 ---
