@@ -1,5 +1,23 @@
 # Learning Journal
 
+### Day 28 - (10/01/25)
+
+- 📘 What I studied today:
+    - REST APIs
+    - HTTP Requests
+    - Web Scraping
+          -    BeautifulSoup
+    - pandas
+- 💻 What I practiced:
+    - Web Scraping
+    - Mixture of all topics
+
+- 💡 Key takeaway:
+    - This was particularly hard for me. I believe this is widely used.          
+- ❓ Open questions:
+      
+---
+
 ### Day 25 - (9/28/25)
 
 - 📘 What I studied today:
