@@ -3,6 +3,19 @@
 ### Day 28 - (10/01/25)
 
 - 📘 What I studied today:
+    - Web Scraping
+    - Handling HTML files from HTTP requests
+- 💻 What I practiced:
+    - Get better general understanding
+- 💡 Key takeaway:  
+    
+- ❓ Open questions:
+      
+---
+
+### Day 28 - (10/01/25)
+
+- 📘 What I studied today:
     - REST APIs
     - HTTP Requests
     - Web Scraping
