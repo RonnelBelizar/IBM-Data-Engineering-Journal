@@ -3,6 +3,26 @@
 ### Day 29 - (10/02/25)
 
 - 📘 What I studied today:
+    - ETL
+      - pandas
+      - basic powershell
+      - xml
+      - datetime lib
+      - glob lib
+
+- 💻 What I practiced:
+    - Basic on the job ETL
+
+- 💡 Key takeaway:  
+    - This is basically one of what Data Engineers do
+
+- ❓ Open questions:
+    - Is def function always used in making codes?
+---
+
+### Day 29 - (10/02/25)
+
+- 📘 What I studied today:
     - Web Scraping
     - pandas
     - Course Final Quiz

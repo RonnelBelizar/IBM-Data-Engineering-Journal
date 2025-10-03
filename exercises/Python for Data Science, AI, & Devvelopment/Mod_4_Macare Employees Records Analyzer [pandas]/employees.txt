@@ -1,9 +1,0 @@
-Name,Age,Position,Expertise
-Ronnel,29,Engineer,Gx
-Doc,30,Engineer,Gx
-Shed,36,Engineer,Gx
-Bren,29,Engineer,Gx
-Jesh,23,Intern,None
-Rhea,25,Admin,Minutes Of Meeting
-Lara,32,It,Printer
-Harold,46,Supervisor,Management

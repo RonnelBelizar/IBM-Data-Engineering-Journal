@@ -1,0 +1,14 @@
+2025-10-03-22:12:34,ETL Started
+2025-10-03-22:12:34,Extraction in Progress
+2025-10-03-22:12:34,Extraction Ended
+2025-10-03-22:12:34,Transformation Started
+2025-10-03-22:12:34,Transformation Ended
+2025-10-03-22:12:34,Saving Transformed Data
+2025-10-03-22:12:34,Saving Successful
+2025-10-03-22:14:20,ETL Started
+2025-10-03-22:14:20,Extraction in Progress
+2025-10-03-22:14:20,Extraction Ended
+2025-10-03-22:14:20,Transformation Started
+2025-10-03-22:14:20,Transformation Ended
+2025-10-03-22:14:20,Saving Transformed Data
+2025-10-03-22:14:20,Saving Successful

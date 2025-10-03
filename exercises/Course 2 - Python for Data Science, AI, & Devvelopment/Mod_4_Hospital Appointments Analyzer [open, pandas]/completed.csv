@@ -1,0 +1,5 @@
+Patient,Department,Status,WaitTime
+John,Cardiology,Completed,15
+Mark,Cardiology,Completed,25
+Jane,Dermatology,Completed,10
+Bob,Neurology,Completed,30

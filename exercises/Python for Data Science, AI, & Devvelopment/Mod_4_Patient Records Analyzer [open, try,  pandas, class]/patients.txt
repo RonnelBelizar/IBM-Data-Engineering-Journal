@@ -1,3 +1,0 @@
-John,34,Cardiology
-Alice,29,Neurology
-Mark,42,Cardiology
