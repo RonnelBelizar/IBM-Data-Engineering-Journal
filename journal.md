@@ -1,12 +1,29 @@
 # Learning Journal
 
+### Day 29 - (10/02/25)
+
+- 📘 What I studied today:
+    - Web Scraping
+    - pandas
+    - Course Final Quiz
+- 💻 What I practiced:
+    - Get better general understanding
+- 💡 Key takeaway:  
+    
+- ❓ Open questions:
+      
+---
+
 ### Day 28 - (10/01/25)
 
 - 📘 What I studied today:
     - Web Scraping
     - Handling HTML files from HTTP requests
+
 - 💻 What I practiced:
     - Get better general understanding
+    - Finish course 2
+
 - 💡 Key takeaway:  
     
 - ❓ Open questions:
