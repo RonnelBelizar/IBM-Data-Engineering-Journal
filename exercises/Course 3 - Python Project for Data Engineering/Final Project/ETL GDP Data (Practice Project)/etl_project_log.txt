@@ -1,0 +1,18 @@
+2025-10-08 18:58:32 INFO: Starting ETL Session...
+2025-10-08 18:58:32 INFO: Extracting data from the webpage...
+2025-10-08 18:58:32 INFO: Requesting data from URL
+2025-10-08 18:58:33 INFO: Parsing html
+2025-10-08 18:58:33 INFO: Creating DataFrame from parsed html
+2025-10-08 18:58:33 INFO: Data successfully extracted
+2025-10-08 18:58:33 INFO: Transforming extracted data...
+2025-10-08 18:58:33 INFO: Renaming Columns
+2025-10-08 18:58:33 INFO: Transforming values
+2025-10-08 18:58:33 INFO: Successfully transformed data
+2025-10-08 18:58:33 INFO: Saving transformed data...
+2025-10-08 18:58:33 INFO: Saving data (.csv)
+2025-10-08 18:58:33 INFO: Saving data as new table in World_Economies.db
+2025-10-08 18:58:33 INFO: Successfully saved data
+2025-10-08 18:58:33 INFO: ETL pipeline executed successfully
+2025-10-08 18:58:33 INFO: 
+Logging Session Finished
+Total number of logs: 15

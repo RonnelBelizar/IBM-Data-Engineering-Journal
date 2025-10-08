@@ -1,6 +1,23 @@
 # Learning Journal
 
-### Day 29 - (10/02/25)
+### Day 34 - 35 — (10/07/25 - 10/08/25)
+
+- 📘 What I studied today:
+    - Course 2 Final Project
+      - ETL project
+
+- 💻 What I practiced:
+    - ETL
+
+- 💡 Key takeaway:  
+    - This is basically one of what Data Engineers do
+
+- ❓ Open questions:
+    - How often does data engineers do web scraping?
+---
+
+
+### Day 30 - (10/03/25)
 
 - 📘 What I studied today:
     - ETL
