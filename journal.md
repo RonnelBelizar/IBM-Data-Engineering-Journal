@@ -1,5 +1,21 @@
 # Learning Journal
 
+### Day 37 — (10/10/25)
+
+- 📘 What I studied today:
+    - Compiled a folder for my Data Engineering Mini Projects repo
+      - ETL mini project (webscraping)
+
+- 💻 What I practiced:
+    - ETL
+
+- 💡 Key takeaway:  
+    - Proceeding to course 3 (Introduction to RDBMS)
+
+- ❓ Open questions:
+
+---
+
 ### Day 34 - 35 — (10/07/25 - 10/08/25)
 
 - 📘 What I studied today:
