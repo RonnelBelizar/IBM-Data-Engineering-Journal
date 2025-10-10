@@ -71,7 +71,7 @@ try:
 
     transformed = transform(extracted, "exchange_rate.csv")
     log_progress("Data transformation complete. Initiating Loading process")
-    print(transformed.iloc[0:10, 0:])
+    print(transformed)
     load_to_csv(transformed, output_csv_path)
     log_progress("Data saved to CSV file")
 
@@ -85,13 +85,13 @@ except Exception as e:
     log_progress(f"Error Found: {e}")
     print(f"Error found during ETL Process: {e}")
 
-else:
-    run_queries("SELECT * FROM Largest_banks", sql_conn)
-    run_queries(
-        "SELECT AVG(MC_GBP_Billion) FROM Largest_banks", sql_conn)
-    run_queries("SELECT Name from Largest_banks LIMIT 5", sql_conn)
+# else:
+#     run_queries("SELECT * FROM Largest_banks", sql_conn)
+#     run_queries(
+#         "SELECT AVG(MC_GBP_Billion) FROM Largest_banks", sql_conn)
+#     run_queries("SELECT Name from Largest_banks LIMIT 5", sql_conn)
 
-    log_progress("Process Complete")
+#     log_progress("Process Complete")
 
 finally:
     sql_conn.close()
