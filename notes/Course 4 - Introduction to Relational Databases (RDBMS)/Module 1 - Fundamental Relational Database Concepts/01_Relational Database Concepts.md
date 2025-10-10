@@ -101,4 +101,112 @@ Logical Data Independence: Ability to modify the logical schema without affectin
 Physical Data Independence: Ability to change how data is stored physically without altering the logical schema.  
 Physical Storage Independence: The separation of physical storage methods from logical data structures.
 
+---
+
+# 🧩 ENTITY-RELATIONSHIP DIAGRAMS (ERDs) AND TYPES OF RELATIONSHIPS
+
+An **Entity-Relationship Diagram (ERD)** is a visual representation of how data entities relate within a system. It helps organize data logically and serves as a blueprint for database design.
+
+🧠 ERD DEFINITION  
+An ERD shows entities (tables), their attributes (fields), and how they connect through relationships. It clarifies how information flows through a database and identifies dependencies.
+
+⚙️ FUNDAMENTAL COMPONENTS  
+🟦 ENTITIES — Represent objects or concepts that data is stored about. Each entity becomes a database table, and its attributes become columns.  
+Example:  
++-------------+  
+|   PATIENT   |  
++-------------+  
+| Patient_ID  |  
+| Name        |  
+| Age         |  
+| Address     |  
++-------------+  
+
+🟩 RELATIONSHIP SETS — Define how entities interact with each other. These show the logical associations between data in different tables.  
+Example:  
++-----------+           +-----------+  
+|  DOCTOR   |           |  PATIENT  |  
++-----------+           +-----------+  
+| Doctor_ID |<--------->| Patient_ID|  
+| Name      |  treats   | Name      |  
++-----------+           +-----------+  
+
+🪶 CROW’S FOOT NOTATIONS — Used to represent **cardinality**, or how many instances of one entity relate to another.  
+O---| → Zero or One  
+|---| → Exactly One  
+|---< → One to Many  
+O---< → Zero to Many  
+Examples:  
+A patient may or may not have insurance → O---|  
+Each invoice must belong to one customer → |---|  
+A doctor can treat many patients → |---<  
+A student may enroll in many courses → O---<  
+
+🔄 TYPES OF RELATIONSHIPS  
+
+1️⃣ ONE-TO-ONE (1:1)  
+Each record in one entity corresponds to exactly one record in another. Common for optional or sensitive data stored separately.  
+Example: A patient has one medical record.  
++-------------+      ||────||      +-----------------+  
+|   PATIENT   |--------------------|  MEDICAL_RECORD |  
++-------------+                   +-----------------+  
+| Patient_ID  |                   | Record_ID       |  
+| Name        |                   | Patient_ID (FK) |  
++-------------+                   +-----------------+  
+
+2️⃣ ONE-TO-MANY (1:N)  
+One record in an entity can be related to multiple records in another. This is the most common type of relationship.  
+Example: A doctor can treat many patients, but each patient has only one doctor.  
++-----------+        ||────<        +-----------+  
+|  DOCTOR   |----------------------|  PATIENT  |  
++-----------+                     +-----------+  
+| Doctor_ID |                     | Patient_ID|  
+| Name      |                     | Doctor_ID (FK)|  
++-----------+                     +-----------+  
+
+3️⃣ MANY-TO-MANY (M:N)  
+Records in both entities relate to multiple records in the other. This requires a **junction table** to connect them.  
+Example: A student can enroll in many courses, and a course can have many students.  
++-----------+        <───||───>        +-----------+  
+|  STUDENT  |--------------------------|  COURSE   |  
++-----------+                         +-----------+  
+| Student_ID|                         | Course_ID |  
+| Name      |                         | Title     |  
++-----------+                         +-----------+  
+          \                             /  
+           \                           /  
+            \                         /  
+             \                       /  
+              \                     /  
+               \                   /  
+                \                 /  
+                 \               /  
+                  \             /  
+                   \           /  
+                    \         /  
+                     \       /  
+                      \     /  
+                       \   /  
+                        \ /  
+                 +----------------+  
+                 |   ENROLLMENT   |  
+                 +----------------+  
+                 | Student_ID (FK)|  
+                 | Course_ID  (FK)|  
+                 +----------------+  
+
+🧭 QUICK SUMMARY  
+Entity → Table representing data objects  
+Attribute → Column describing properties  
+Relationship → Connection between entities  
+Crow’s Foot → Symbol for relationship type  
+1:1 → One record to one record (||----||)  
+1:N → One record to many records (||----<)  
+M:N → Many records to many records (<----||---->)  
+
+✨ In summary, ERDs are blueprints for databases — they simplify complex data relationships, improve organization, and ensure data integrity.
+
+
+
+
 
