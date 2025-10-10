@@ -206,6 +206,229 @@ M:N → Many records to many records (<----||---->)
 
 ✨ In summary, ERDs are blueprints for databases — they simplify complex data relationships, improve organization, and ensure data integrity.
 
+---
+
+# 🗂️ Mapping Entities to Tables
+
+Mapping entities from an ERD to actual database tables can be straightforward if we follow some clear steps. Let's make it fun and easy! 😎
+
+---
+
+## 1️⃣ Begin with an ERD
+- Start by looking at your **Entity-Relationship Diagram (ERD)** 🖼️.
+- Identify:
+  - **Entities** → Things or objects, like `Customer`, `Order`, `Product` 🧑‍💼📦
+  - **Attributes** → Properties of entities, like `Customer Name`, `Order Date`, `Product Price` 📝
+  - **Relationships** → How entities are connected, e.g., a `Customer` places an `Order` 🔗
+- Think of ERD as your **map** 🗺️ before you build the database.
+
+**Example:**
+- Entity: `Customer`
+- Attributes: `CustomerID`, `Name`, `Email`
+- Relationship: `Customer` → `Order`
+
+---
+
+## 2️⃣ Map the ERD
+- Turn each **entity** into a **table** 🏗️.
+- Each **attribute** becomes a **column** in the table.
+- Define **relationships** using **foreign keys** 🔑.
+  
+**Example Table: `Customer`**
+| Column       | Data Type | Notes                    |
+|--------------|-----------|--------------------------|
+| CustomerID   | INT       | Primary Key, unique 🔑    |
+| Name         | VARCHAR   | Customer's full name     |
+| Email        | VARCHAR   | Customer's email address |
+
+**Relationship Example:**  
+- `Order.CustomerID` → foreign key referencing `Customer.CustomerID`
+
+---
+
+## 3️⃣ Translating Attributes
+- Choose the correct **data type** for each attribute 🎯.
+- Ensure it fits the data you want to store:
+  - `INT` → numbers (e.g., quantity, age) 🔢
+  - `VARCHAR` → text (e.g., names, emails) ✉️
+  - `DATE` → dates (e.g., order date) 📅
+- Decide if the attribute can be **NULL** or must always have a value ❌🟢
+
+---
+
+## 4️⃣ Adding Data Values
+- Start populating your tables with **real data** 🏋️‍♂️
+- Make sure the values match the **data type** of each column.
+- Examples:
+  - `CustomerID = 1`
+  - `Name = "Ronnel Belizar"`
+  - `Email = "ronnel@example.com"`
+
+---
+
+## 5️⃣ Best Practices ✅
+### 🔹 Primary Key Designation
+- Each table should have a **unique identifier** 🔑
+- Example: `CustomerID` for `Customer` table
+
+### 🔹 Data Validation
+- Ensure **accuracy** of the data ✅
+- Example: Emails should contain `@`, prices should not be negative 💡
+
+### 🔹 Default Values
+- Pre-set **default values** when applicable 🎯
+- Example: `OrderStatus = "Pending"` if not specified
+
+### 🔹 Using Views
+- Simplify queries with **views** 👀
+- Example: `CREATE VIEW ActiveCustomers AS SELECT * FROM Customer WHERE Status='Active'`
+
+### 🔹 Concurrency Control
+- Manage simultaneous **access and modifications** to the database 🔄
+- Prevents conflicts when multiple users work on the same data 💻👥
+
+---
+
+## 📌 Summary
+- Start with your ERD 🖼️ → entities, attributes, relationships
+- Map entities to tables 🏗️ → columns, data types, foreign keys
+- Translate attributes 🎯 → choose proper data types
+- Add data values 🏋️‍♂️ → make sure they're valid
+- Follow best practices ✅ → primary keys, validation, defaults, views, concurrency
+
+By following these steps, you can easily turn an ERD into a clean, well-structured database! 🚀
+
+--- 
+
+# 🗃️ Data Types in Databases
+
+Understanding **data types** is key to organizing your database efficiently. Let's break it down in a simple, fun way! 😎
+
+---
+
+## 1️⃣ Database Table Basics
+- A **table** is made up of **columns** and **rows**.
+- Each column has a **data type**, which tells the database what kind of data can be stored there 🏗️.
+
+**Example Table: `Product`**
+| Column      | Data Type | Notes                        |
+|------------|-----------|------------------------------|
+| ProductID  | INT       | Unique identifier 🔑         |
+| Name       | VARCHAR   | Product name 🏷️             |
+| Price      | DECIMAL   | Price in dollars 💵          |
+| CreatedAt  | DATETIME  | When product was added 📅     |
+
+---
+
+## 2️⃣ Common Data Types
+
+### 🔹 Varchar (Variable Character)
+- Stores **text** of variable length ✏️
+- Example: `Name = "Laptop"`
+
+### 🔹 Date and Time
+- Stores **dates and timestamps** ⏰
+- Example: `CreatedAt = 2025-10-10 14:30:00`
+
+### 🔹 Float and Decimal
+- Stores **numbers with decimals** 🔢
+- `FLOAT` → approximate values (e.g., 3.14159)
+- `DECIMAL` → precise values, ideal for money 💵
+
+### 🔹 Integer Types
+- Stores **whole numbers** 🔢
+- Example: `Quantity = 10`
+
+### 🔹 Binary Data Types
+- Stores **binary data** like images or files 📷📂
+- Example: storing a product image as `BLOB`
+
+### 🔹 Character Types
+- Stores **fixed-length text** (CHAR) or variable-length (VARCHAR) ✏️
+- `CHAR(5)` → always 5 characters
+- `VARCHAR(50)` → up to 50 characters
+
+---
+
+## 3️⃣ Advantages of Using Data Types ✅
+- **Data Integrity**: Only valid data can be entered 🛡️
+- **Efficiency**: Uses storage efficiently 🏋️‍♂️
+- **Faster Queries**: Optimized for searching and sorting ⚡
+- **Error Prevention**: Reduces mistakes in data entry ❌
+- **Consistency**: Ensures all similar data is stored the same way 🔄
+
+---
+
+## 📌 Summary
+1. Every **column** in a table has a **data type** 🏷️
+2. Common types include `VARCHAR`, `INT`, `DECIMAL`, `DATETIME`, `BLOB` 🧰
+3. Proper data types improve **integrity, efficiency, and consistency** in your database 🚀
+
+---
+
+# 🔗 Relational Model Concepts
+
+The **Relational Model** is the foundation of modern databases.
+
+---
+
+## 1️⃣ Sets
+- A **set** is a collection of unique elements 🔢
+- **Set operations** let you manipulate data sets:
+  - **Union ( ∪ )** → combine two sets 🔗
+  - **Intersection ( ∩ )** → common elements ✔️
+  - **Difference ( − )** → elements in one set but not the other ❌
+
+**Example:**
+- Set A = {1, 2, 3}  
+- Set B = {2, 3, 4}  
+- A ∪ B = {1, 2, 3, 4}  
+- A ∩ B = {2, 3}  
+- A − B = {1}  
+
+---
+
+## 2️⃣ Relations
+- A **relation** is basically a **table** in a database 🗂️
+- Each row = **tuple**, each column = **attribute**
+- Example Table: `Student`
+| StudentID | Name     | Age |
+|-----------|----------|-----|
+| 1         | Ronnel   | 25  |
+| 2         | Maria    | 22  |
+
+---
+
+## 3️⃣ Properties of a Relation
+- **Transitivity**: If A → B and B → C, then A → C 🔄  
+- **Asymmetry**: If A → B, then B → A **does not hold** ❌
+
+---
+
+## 4️⃣ Components of a Relation
+### 🔹 Schema
+- Defines the **structure** of a table 🏗️
+- Example: `Student(StudentID INT, Name VARCHAR, Age INT)`
+
+### 🔹 Instance
+- The **actual data** in the table at a given moment 📝
+- Example Table Data:
+| StudentID | Name     | Age |
+|-----------|----------|-----|
+| 1         | Ronnel   | 25  |
+| 2         | Maria    | 22  |
+
+---
+
+## 📌 Summary
+1. **Sets** → collections of unique items, can perform union, intersection, difference 🔗  
+2. **Relations** → tables with rows (tuples) and columns (attributes) 🗂️  
+3. **Properties** → transitivity (chain of relationships), asymmetry (direction matters) 🔄  
+4. **Components** → schema (table structure) & instance (actual data) 📝  
+
+
+
+
 
 
 

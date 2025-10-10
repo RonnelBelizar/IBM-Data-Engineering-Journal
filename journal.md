@@ -5,6 +5,8 @@
 - 📘 What I studied today:
     - Compiled a folder for my Data Engineering Mini Projects repo
       - ETL mini project (webscraping)
+    - Entity-Relationship Diagram
+    - Relational Model Concepts
 
 - 💻 What I practiced:
     - ETL
