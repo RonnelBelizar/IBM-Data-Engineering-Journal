@@ -1,5 +1,23 @@
 # Learning Journal
 
+### Day 39 — (10/12/25)
+
+- 📘 What I studied today:
+  - Relational database concepts
+
+- 💻 What I practiced:
+  - Studied theoretical concepts only
+    - MySQL
+    - PostgreSQL
+
+- 💡 Key takeaway:  
+  - This is a fundamental concept in data engineering
+
+- ❓ Open questions:
+  - When and how do companies actually decide which technology to use beyond each of the technologies' capabilities?
+
+---
+
 ### Day 37 — (10/10/25)
 
 - 📘 What I studied today:
@@ -9,7 +27,8 @@
     - Relational Model Concepts
 
 - 💻 What I practiced:
-    - ETL
+    - ETL Webscraping Mini Project: 
+    - Link: https://github.com/RonnelBelizar/Data-Engineering-Mini-Projects/tree/main/Projects/Extract%2C%20Transform%2C%20Load%20(ETL)/ETL%20Banks%20Project
 
 - 💡 Key takeaway:  
     - Proceeding to course 3 (Introduction to RDBMS)
@@ -31,7 +50,8 @@
     - This is basically one of what Data Engineers do
 
 - ❓ Open questions:
-    - How often does data engineers do web scraping?
+    - How often do data engineers web scrape?
+    
 ---
 
 

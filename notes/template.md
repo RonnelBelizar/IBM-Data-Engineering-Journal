@@ -1,4 +1,4 @@
-# Topic: Module 1 — Relational Database Concepts
+# Topic: Module 1 — Introducing Relational Database Products
 
 ---
 
