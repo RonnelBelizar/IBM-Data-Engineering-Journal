@@ -1,4 +1,4 @@
-# Topic: Module 1 — Introducing Relational Database Products
+# Topic: Module 2 — Creating Tables and Loading Data
 
 ---
 

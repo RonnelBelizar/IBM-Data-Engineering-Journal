@@ -1,5 +1,24 @@
 # Learning Journal
 
+### Day 42 — (10/15/25)
+
+- 📘 What I studied today:
+  - SQL
+    - CREATE, ALTER, INSERT
+    - PostgreSQL
+
+- 💻 What I practiced:
+  - Creating and manipulating a table on PostgreSQL
+  - Integrated Python with PostgreSQL (psycopg2)
+
+- 💡 Key takeaway:  
+  - This is most likely will be used a lot on data engineering work
+
+- ❓ Open questions:
+  - How far can SQL take data organizing?
+
+---
+
 ### Day 39 — (10/12/25)
 
 - 📘 What I studied today:
