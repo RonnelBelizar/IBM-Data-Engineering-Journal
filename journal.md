@@ -1,5 +1,25 @@
 # Learning Journal
 
+### Day 44 — (10/17/25)
+
+- 📘 What I studied today:
+  - SQL
+    - DDL, DML
+    - PostgreSQL
+  - Python
+    - SQLAlchemy
+    - ETL
+
+- 💻 What I practiced:
+  - Creating a mini project incoporating Postgres on creating database and using Python to do ETL
+
+- 💡 Key takeaway:  
+  - This is most likely will be used a lot on data engineering work
+
+- ❓ Open questions:
+
+---
+
 ### Day 42 — (10/15/25)
 
 - 📘 What I studied today:
