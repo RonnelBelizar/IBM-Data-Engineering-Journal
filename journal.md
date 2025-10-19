@@ -1,6 +1,6 @@
 # Learning Journal
 
-### Day 44 — (10/17/25)
+### Day 44 - 46 — (10/17/25 - 10/19/25)
 
 - 📘 What I studied today:
   - SQL
