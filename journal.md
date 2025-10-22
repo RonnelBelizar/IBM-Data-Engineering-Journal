@@ -8,7 +8,7 @@
 
 - 💻 What I practiced:
   - Practiced SQL syntax via PostgreSQL
-  - GitHub Link: 
+  - GitHub Link: https://github.com/RonnelBelizar/IBM-Data-Engineering-Journal/blob/main/exercises/Course%204%20-%20Introduction%20to%20Relational%20Databases/SQL%20Scripts/Module_2_Employee%20And%20Department%20DB.sql
 
 - 💡 Key takeaway:  
   - This is a fundamental knowledge
