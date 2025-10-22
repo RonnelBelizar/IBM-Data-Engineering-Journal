@@ -1,5 +1,20 @@
 # Learning Journal
 
+### Day 49 — (10/22/25)
+
+- 📘 What I studied today:
+  - SQL
+  - Normalization, Keys, Constraints
+
+- 💻 What I practiced:
+  - Practiced SQL syntax via PostgreSQL
+  - GitHub Link: 
+
+- 💡 Key takeaway:  
+  - This is a fundamental knowledge
+
+- ❓ Open questions:
+
 ### Day 44 - 46 — (10/17/25 - 10/19/25)
 
 - 📘 What I studied today:
