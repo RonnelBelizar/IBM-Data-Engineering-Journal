@@ -1,5 +1,20 @@
 # Learning Journal
 
+### Day 50 — (10/23/25)
+
+- 📘 What I studied today:
+  - MySQL
+    - MySQL CLI
+
+- 💻 What I practiced:
+  - Basic MySQL CLI commands
+
+- 💡 Key takeaway:  
+  -  I just realized that this is how Data Engineers do DB works preferably than using a MySQL GUI tool such as phpMyAdmin
+
+- ❓ Open questions:
+  - How to properly use it and integrate with ETL
+
 ### Day 49 — (10/22/25)
 
 - 📘 What I studied today:
