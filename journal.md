@@ -5,12 +5,13 @@
 - 📘 What I studied today:
   - MySQL
     - MySQL CLI
+    - phpMyAdmin
   - SQL on MySQL
     - CREATE, USE, INSERT INTO, SELECT, JOIN, CONCAT(), WHERE, GROUP BY, COUNT(), ORDER BY, CREATE VIEW
 
 - 💻 What I practiced:
   - Creating and querying on a database
-    - SQL Exercise Link: 
+    - SQL Exercise Link: https://github.com/RonnelBelizar/IBM-Data-Engineering-Journal/blob/main/exercises/Course%204%20-%20Introduction%20to%20Relational%20Databases/SQL%20Scripts/Module_3_Healthcare%20Database%20Tracker%20%5BMySQL%2C%20SQL%5D.sql
 
 - 💡 Key takeaway:
   - This is how data analysts do their stuff with the dbs
