@@ -352,4 +352,7 @@ Loads data from the CSV file into the `employees` table of the `company_db` data
 - Use **`LOAD DATA INFILE`** or **`mysqlimport`** → for fast data imports  
 - Use **`INSERT INTO`** → for small manual entries
 
+---
+
+
 

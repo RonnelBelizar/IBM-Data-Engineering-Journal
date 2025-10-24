@@ -1,5 +1,25 @@
 # Learning Journal
 
+### Day 51 — (10/24/25)
+
+- 📘 What I studied today:
+  - MySQL
+    - MySQL CLI
+  - SQL on MySQL
+    - CREATE, USE, INSERT INTO, SELECT, JOIN, CONCAT(), WHERE, GROUP BY, COUNT(), ORDER BY, CREATE VIEW
+
+- 💻 What I practiced:
+  - Creating and querying on a database
+    - SQL Exercise Link: 
+
+- 💡 Key takeaway:
+  - This is how data analysts do their stuff with the dbs
+
+- ❓ Open questions:
+  - How complex can it get?
+
+---
+
 ### Day 50 — (10/23/25)
 
 - 📘 What I studied today:
@@ -14,6 +34,8 @@
 
 - ❓ Open questions:
   - How to properly use it and integrate with ETL
+
+---
 
 ### Day 49 — (10/22/25)
 
