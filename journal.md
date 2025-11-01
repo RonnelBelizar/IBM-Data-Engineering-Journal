@@ -1,5 +1,18 @@
 # Learning Journal
 
+### Day 60 — (11/02/25)
+
+- 📘 What I studied today:
+  - Final Project
+
+- 💻 What I practiced:
+  - SQL, MySQL, PostgreSQL
+
+- 💡 Key takeaway:
+  - This is a fundamental staple in Data Engineering
+
+- ❓ Open questions:
+
 ### Day 51 — (10/24/25)
 
 - 📘 What I studied today:
