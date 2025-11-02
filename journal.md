@@ -3,6 +3,21 @@
 ### Day 60 — (11/02/25)
 
 - 📘 What I studied today:
+  - Course 5
+  - Getting started with SQL
+
+- 💻 What I practiced:
+  - SELECT
+
+- 💡 Key takeaway:
+  - This is a fundamental staple in Data Engineering
+  - This will be easier to understand since I already had projects dealing wiht DDL, DML
+
+- ❓ Open questions:
+
+### Day 59 — (11/01/25)
+
+- 📘 What I studied today:
   - Final Project
 
 - 💻 What I practiced:

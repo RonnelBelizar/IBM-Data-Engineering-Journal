@@ -1,4 +1,4 @@
-# Topic: Module 2 — Creating Tables and Loading Data
+# Topic: Module 1 - Getting Started With  SQL
 
 ---
 
