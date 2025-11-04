@@ -1,5 +1,20 @@
 # Learning Journal
 
+### Day 62 — (11/04/25)
+
+- 📘 What I studied today:
+  - Basic SQL
+
+- 💻 What I practiced:
+  - SELECT, COUNT, DISTICT, LIMIT, WHERE, INSERT, DELETE, UPDATE
+
+- 💡 Key takeaway:
+  - Fundamental SQL syntax
+
+- ❓ Open questions:
+
+---
+
 ### Day 60 — (11/02/25)
 
 - 📘 What I studied today:
