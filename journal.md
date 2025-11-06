@@ -1,5 +1,20 @@
 # Learning Journal
 
+### Day 64 — (11/06/25)
+
+- 📘 What I studied today:
+  - Basic SQL
+
+- 💻 What I practiced:
+  - CREATE, ALTER, INSERT, DROP, TRUNCATE
+
+- 💡 Key takeaway:
+  - Fundamental SQL syntax
+
+- ❓ Open questions:
+
+---
+
 ### Day 62 — (11/04/25)
 
 - 📘 What I studied today:
