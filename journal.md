@@ -1,5 +1,23 @@
 # Learning Journal
 
+### Day 65 — (11/07/25)
+
+- 📘 What I studied today:
+  - Intermediate SQL
+  - Creating a DB instance on IBM DB2
+
+- 💻 What I practiced:
+  - LIKE '%', BETWEEN _ AND _, IN (), ORDER BY, GROUP BY, HAVING, DISTINCT
+  - Aggregate Functions
+    - COUNT, AVG
+
+- 💡 Key takeaway:
+  - Fundamental SQL syntax
+
+- ❓ Open questions:
+
+---
+
 ### Day 64 — (11/06/25)
 
 - 📘 What I studied today:
