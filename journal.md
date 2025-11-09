@@ -1,5 +1,20 @@
 # Learning Journal
 
+### Day 67 — (11/09/25)
+
+- 📘 What I studied today:
+  - Intermediate SQL
+
+- 💻 What I practiced:
+  - Inclusive Joins, Aggregate Functions, Nested Queries
+
+- 💡 Key takeaway:
+  - Fundamental SQL syntax
+
+- ❓ Open questions:
+
+---
+
 ### Day 65 — (11/07/25)
 
 - 📘 What I studied today:
