@@ -1,14 +1,24 @@
-"""
-Exercise Title: [Topic / Concept]
+import requests
+import mysql.connector
+import pandas as pd
 
-Objective:
-    - [What this exercise helps me practice]
+url_crimes = "https://data.cityofchicago.org/api/v3/views/ijzp-q8t2/query.json"
+header = {"User-Agent": "Mozilla/5.0"}
 
-Notes:
-    - [Any reminders or shortcuts I learned while doing this]
-"""
 
-# Example exercise
-print("Hello IBM Data Engineering!")
+# conn = mysql.connector.connect(
+#     host="localhost",
+#     user="root",
+#     password="password",
+#     database="mydatabase"
+# )
 
-# TODO: Replace with actual practice code
+response = requests.get(url_crimes, headers=header)
+data = response.json()
+
+rows = data["data"]
+columns = [col["name"] for col in data["meta"]["view"]["columns"]]
+
+df = pd.DataFrame(rows, columns=columns)
+
+print(df.head())

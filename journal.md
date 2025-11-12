@@ -1,5 +1,51 @@
 # Learning Journal
 
+### Day 70 — (11/12/25)
+
+- 📘 What I studied today:
+  - Continuation
+
+- 💻 What I practiced:
+  - More about accessing databases via python
+
+- 💡 Key takeaway:
+  - 
+
+- ❓ Open questions:
+
+---
+
+### Day 68 — (11/10/25)
+
+- 📘 What I studied today:
+  - Accessing DBS with Python
+  - Concepts about DB API
+
+- 💻 What I practiced:
+  - conn = mysql.connector.connect(
+      host="localhost",
+      user="Ronnel",
+      password="1234"
+    )
+  - cursor = conn.cursor()
+    - Setting up a cursor to allow SQL commands inside Python
+
+  - cursor.execute("SQL Queries")
+
+  - cursor.fetchall()
+    - Fetch rows from a query in a form of a list of tuples(rows from the query)
+  
+  - cursor.close, conn.close()
+    - Closing the connections
+
+- 💡 Key takeaway:
+  - I realized that this integrates Python with SQL Databases and now Data Analytics becomes more powerful with Python
+
+- ❓ Open questions:
+  - Up to what extent is this used in the industry?
+
+---
+
 ### Day 67 — (11/09/25)
 
 - 📘 What I studied today:

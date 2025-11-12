@@ -1,4 +1,4 @@
-# Topic: Module 3 — Intermediate SQL
+# Topic: Module 4 - Accessing Databases Using Python
 
 ---
 
