@@ -1,5 +1,22 @@
 # Learning Journal
 
+### Day 72 — (11/14/25)
+
+- 📘 What I studied today:
+  - Final Exam
+
+- 💻 What I practiced:
+  - Analyzed a real world data set from Chicago
+    - Created MySQL Database and created and ETL script via Python (SQL Alchemy)
+    - Did a bunch of queries to answer the final exam
+
+- 💡 Key takeaway:
+  - This course was extremely fun to learn
+
+- ❓ Open questions:
+
+---
+
 ### Day 70 — (11/12/25)
 
 - 📘 What I studied today:
