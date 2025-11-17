@@ -1,5 +1,21 @@
 # Learning Journal
 
+### Day 75 — (11/17/25)
+
+- 📘 What I studied today:
+  - Bonus module (Advanced SQL)
+
+- 💻 What I practiced:
+  - Views, Stored Procedures, Transactions (ACID), Joins
+
+- 💡 Key takeaway:
+  - Another perspective of manipulating data similar with Python's process
+
+- ❓ Open questions:
+  - I wonder if this is how it's done in the industry or is it integrated with Python instead of doing in SQL
+
+---
+
 ### Day 72 — (11/14/25)
 
 - 📘 What I studied today:
