@@ -1,5 +1,21 @@
 # Learning Journal
 
+### Day 78 — (11/20/25)
+
+- 📘 What I studied today:
+  - Stored Procedure, ACID, Transactions
+
+- 💻 What I practiced:
+  - Creating Stored Procedures
+
+- 💡 Key takeaway:
+  - A powerful data manipulation function in SQL
+
+- ❓ Open questions:
+  - How often is this used in the industry when this can also be done in Python?
+
+---
+
 ### Day 75 — (11/17/25)
 
 - 📘 What I studied today:
