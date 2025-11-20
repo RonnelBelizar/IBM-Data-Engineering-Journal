@@ -7,6 +7,9 @@
 
 - 💻 What I practiced:
   - Creating Stored Procedures
+  - Exercise Link: 
+  
+  https://github.com/RonnelBelizar/IBM-Data-Engineering-Journal/blob/main/exercises/Course%205%20-%20Databases%20and%20SQL%20for%20Data%20Science%20With%20Python/Bonus%20Module/Stored%20Procedure%20ACID%20Exercise%2001.sql
 
 - 💡 Key takeaway:
   - A powerful data manipulation function in SQL
