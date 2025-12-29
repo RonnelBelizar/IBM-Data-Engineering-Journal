@@ -1,5 +1,23 @@
 # Learning Journal
 
+### Day 116 — (12/28/25)
+
+- 📘 What I studied today:
+  - I am studying in parallel Microsoft Power BI for data visualization
+  - Recap of basic Python and SQL concepts
+
+- 💻 What I practiced:
+  - Python: Loops, sets, dictionaries, if-else conditions, def functions, pandas
+  - SQL: JOIN, Aggregations, Select
+
+- 💡 Key takeaway:
+  - It can get overwhelming since I've been studying Python, SQL, Power BI in the last 30 days
+
+- ❓ Open questions:
+  - Should I be a master of all of the programming languages?
+
+---
+
 ### Day 78 — (11/20/25)
 
 - 📘 What I studied today:
